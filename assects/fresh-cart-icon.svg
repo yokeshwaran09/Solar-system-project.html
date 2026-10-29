@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Fresh Cart logo">
+  <circle cx="60" cy="60" r="55" fill="#2e9e4f"/>
+  <path d="M66 46 C48 44 50 24 72 22 C75 36 73 44 66 46 Z" fill="#c8f5b0"/>
+  <path d="M66 46 C67 40 69 33 72 27" stroke="#2e9e4f" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M30 42 H41 L49 74 H80 L88 52 H44" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="54" cy="86" r="5.5" fill="#ffffff"/>
+  <circle cx="76" cy="86" r="5.5" fill="#ffffff"/>
+</svg>
